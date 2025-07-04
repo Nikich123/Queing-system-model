@@ -35,3 +35,5 @@ Run a comparative simulation with 100 runs per strategy and generate plots:
 sim_multiple.py
 Or run a single-shot simulation:
 sim.py
+
+The results are in Ukrainian language.
